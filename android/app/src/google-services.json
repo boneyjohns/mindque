@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76213920976",
+    "project_id": "mindque-1578c",
+    "storage_bucket": "mindque-1578c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76213920976:android:e92a92f8a5f22f03e6ead5",
+        "android_client_info": {
+          "package_name": "com.example.mindque_location_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1VzkQ7cq7l0Od6ee_tmcX4jScxYU7uzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
